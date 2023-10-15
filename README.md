@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sabinho
 - 👀 I’m interested in Game Devolepment 
-- 🌱 I’m currently learning C#
-- 💞️ I'm looking forward to collaborating with a game designer 
+- 🌱 I’m currently learning C# 
 - 📫 How to reach me ... on instgram : sab_x_er
 
 <!---
